@@ -63,4 +63,4 @@ DevOutputLogging: Toggles verbose logging.
 
 
 That’s It!
-Jason’s simple, so it's just for messing with JSON files in the terminal. Modify the code, play around, and have fun! If you run into issues, check that your JSON files are valid and the jason binary is accessible. Feel free to post a Issue to.
+Jason’s a simple lil program, so it's just for messing with JSON files in the terminal. Modify the code, play around, and have fun! If you run into issues, check that your JSON files are valid and the jason binary is accessible. Feel free to post a Issue up there as well.
